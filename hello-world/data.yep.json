@@ -1,0 +1,12 @@
+{
+  "name": "hello-world",
+  "descr": "Simple Hello World example",
+  "version": "1.0.0",
+  "versions": {
+    "1.0.0": "1.0.0/"
+  },
+  "compile": {
+    "1": "echo compiling step 1",
+    "2": "echo compiling step 2"
+  }
+}
