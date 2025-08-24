@@ -3,5 +3,10 @@
     "name": "hello-world",
     "descr": "Simple Hello World example",
     "version": "1.0.0"
-  }
+  },
+  {
+    "name": "player2",
+    "descr": "Player2 is a platform where you can build, discover, play, and share games that feature AI NPCs. It's designed for both players and indie game developers.",
+    "version": "1.0.0"
+}
 ]
